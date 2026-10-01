@@ -1,40 +1,55 @@
-# Hey, I'm Kathy 👋
+  # Hey, I'm Kathy 👋
 
-**Software Engineering student** specialising in **AI & Cloud Computing** · Building intelligent systems that solve real problems.
+  **Software Engineering student** specialising in **AI & Cloud Computing** · Building intelligent systems that solve real problems.
 
-I'm passionate about the intersection of machine learning, cloud infrastructure, and developer tooling. I build end-to-end projects — from training models to deploying them on the cloud.
+  I'm passionate about the intersection of machine learning, cloud infrastructure, and developer tooling. I build end-to-end systems — from training models
+  to deploying them at scale.
 
-### 🔧 What I work with
+  ---
 
-**Languages:** Python · TypeScript · Java · SQL  
-**AI/ML:** Scikit-learn · MediaPipe · Whisper · LLMs (Claude, Llama) · RAG Pipelines  
-**Cloud & DevOps:** Azure · Docker · GitHub Actions · CI/CD · FastAPI · Flask  
-**Data:** Pandas · Jupyter · Streamlit · GeoJSON · SQLite
+  ### 🔧 What I work with
 
-### 🚀 Featured Projects
+  **Languages:** Python · Go · TypeScript · Java · SQL
+  **AI/ML:** YOLOv8 · DistilBERT · Whisper · LangGraph · RAG Pipelines · LLMs (Claude, Llama 3.3)
+  **Cloud & DevOps:** Docker · Kubernetes · Helm · Terraform · GitHub Actions · CI/CD · Prometheus · Grafana
+  **Backend:** FastAPI · Flask · Go (net/http) · Nginx · Redis · PostgreSQL · MQTT
+  **Data & Viz:** Streamlit · Pandas · Jupyter · Redis Streams · GeoJSON
 
-| Project | What it does |
-|---------|-------------|
-| [**MITRE CAR Threat Hunting Pipeline**](https://github.com/kattran177/mitre-car-analytics) | LLM-powered pipeline that transforms cybersecurity analytics into actionable threat hunting artifacts using RAG + deterministic transpilation |
-| [**Invisible Brain**](https://github.com/kattran177/Invisible-Brain) | Voice-powered task orchestration — speak your thoughts, AI categorises them and routes to Notion or GitHub |
-| [**BioAI Guardian**](https://github.com/kattran177/BioAI-Guardian-Microplastics) | Real-time microplastic detection using ML spectral analysis, IoT sensors, and geospatial dashboards |
-| [**MirrorMove**](https://github.com/kattran177/MirrorMove) | AI rehabilitation tool using pose detection to guide physical therapy with real-time voice feedback |
-| [**CareLink**](https://github.com/kattran177/carelink) | Health companion app with AI symptom checking, voice search, and offline clinic finder |
+  ---
 
-### 📊 GitHub Stats
+  ### 🚀 Featured Projects
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=kattran177&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kattran177&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
-</p>
+  | Project | What it does | Stack |
+  |---------|-------------|-------|
+  | [**🔗 Shorty**](https://github.com/kattran177/shorty) | Production-grade URL shortener microservices — JWT auth, Redis caching, Prometheus metrics,
+  Kubernetes deployment | Go · PostgreSQL · Redis · Nginx · Docker · K8s |
+  | [**🤖 Agent Forge**](https://github.com/kattran177/agent-forge) | Multi-agent AI orchestration platform — agents plan, research, and write autonomously
+  | LangGraph · Groq · FastAPI · Streamlit · RAG |
+  | [**👁️ EdgeEye**](https://github.com/kattran177/edge-eye) | Real-time edge AI object detection — YOLOv8 on simulated IoT devices, MQTT streaming, live
+  dashboard | YOLOv8 · MQTT · PostgreSQL · Streamlit · Docker |
+  | [**📡 NewsPulse**](https://github.com/kattran177/news-pulse) | Real-time news sentiment pipeline — streams headlines, analyses with DistilBERT, live
+  trend dashboard | Python · Redis Streams · PostgreSQL · Terraform |
+  | [**🛡️ Guardrail**](https://github.com/kattran177/guardrail) | AWS cloud security posture auditor — scans IAM, S3, RDS for misconfigs with CIS-aligned
+  grading | Python · AWS · CLI + API |
+  | [**🔍 MITRE CAR Pipeline**](https://github.com/kattran177/mitre-car-analytics) | LLM-powered threat hunting — transforms MITRE CAR analytics into SIEM
+  artifacts via RAG | Python · LLMs · RAG · Jupyter |
 
-### 🏆 Hackathons & Programs
+  ---
 
-- 🚀 **NASA Space Apps Challenge** — Built [Boundless](https://github.com/kattran177/boundless-website), tackling LEO commercialisation
-- 💼 **JP Morgan Chase** — Advanced Software Engineering Forage Program
-- 📡 **Telstra** — Backend Engineering Forage Program
-- 🎨 **Shannon Studio Local Challenge 2025** — Submitted creative tech solution
+  ### 🏆 Hackathons & Programs
 
----
+  - 🚀 **NASA Space Apps Challenge** — Built [Boundless](https://github.com/kattran177/boundless-website), tackling LEO commercialisation
+  - 💼 **JP Morgan Chase** — Advanced Software Engineering Forage Program
+  - 📡 **Telstra** — Backend Engineering Forage Program
+  - 🎨 **Shannon Studio Local Challenge 2025** — Submitted creative tech solution
 
-📫 **Let's connect** — open to internships, collaborations, and interesting problems to solve.
+  ---
+
+  ### 📊 GitHub Stats
+
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kattran177&show_icons=true&theme=dark&hide_border=true)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kattran177&layout=compact&theme=dark&hide_border=true)
+
+  ---
+
+  📫 **Let's connect** — open to internships, collaborations, and interesting problems to solve.
